@@ -1,0 +1,19 @@
+Base CSS
+html {
+    margin: 0px;
+    overflow-x: hidden
+    font-size: 12px
+}
+
+Base HTML
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>(Page Title)</title>
+    <link href="(CSS file).css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  </body>
+</html>
