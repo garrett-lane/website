@@ -1,9 +1,8 @@
 html {
     margin: 0px;
     overflow-x: hidden;
-    background-color: #505050;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 12pt;
     line-height: 27.5px;
 }
@@ -29,8 +28,8 @@ p b {
     border: 5px solid white;
     border-radius: 20px;
     float: left;
-    flex: 50%;
-    width: 45%;
+    flex: 70%;
+    width: max-content;
 }
 .infoRow {
     display: flex;
@@ -57,4 +56,26 @@ p b {
     flex: 50%;
     padding: 10px;
     font-size: 16pt;
+}
+
+
+
+
+.txtbox {
+    flex: 50%;
+    border: hotpink; /*Remove later; just for viewing/dev work*/
+    border-style: dotted;
+}
+.innerbox {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.desc {
+    padding-left: 20px;
 }

@@ -17,3 +17,29 @@ Base HTML
   <body>
   </body>
 </html>
+
+ToDo List:
+Shorten up the paragraphs - longer stuff can be put on blog; This aint a freaking biography
+fix design lol - find a way to add more color im getting bored of looking at it - add some bright color it looks depressing
+Find a new font
+make blog Page
+figure out how to make a subdomain
+Add something like: "to learn more about me, check out my blog!"
+Maybe make and add a resume
+
+
+Who I am
+Hi. My name is Garrett Thompson. I am a 14-year-old from the Midwest that loves coding, Hack Club, and Amazon. I started coding in 2017 when I was in 5th grade. Throughout my middle school years, I began to love code and programming more and more, but I wasn’t sure how in the world I was going to learn it. I’m the type of person that needs a dedicated time and place to work on things. But then I found Hack Club, and now, I’m better at programming than ever, and I have met lots of great friends along the way. Usually, when you think of a programmer, you don’t automatically envision a Boy Scout, but I am. I'm very strange and I get told so a lot. I am currently working towards my Eagle Scout and plan on having it by the end of summer 2020. I am apart of the Order of the Arrow (A national honor society within Scouts BSA) and I have proved to the people around me and myself that I am a very hard worker, and oddly, enjoy working.
+
+My Projects
+I am a very dedicated worker. I like to have lots to do and work on even though it can stress me out at times. I have a long list of projects and ideas for things to do, I have done, or am currently doing. Here are some of my better-known projects, but projects, but please feel free to click below to check out a full list of my projects and explanations for them.
+
+Hack Market
+This Website
+My Eagle Scout Project
+And even more...
+What I do
+In September of 2019, I started the East Middle School Hack Club. I am currently the Director of Finances and help run the meetings smoothly. Ever since starting the club I have become very active in the Hack Club community and have started many projects with others that I can now call friends. I am currently learning Swedish as one of my projects. Many people have asked me why, and I simply respond, "Why not?" As anyone who knows me from my school would tell you, I am "smart." I simply try my best to maintain the best grades I can and focus and plan for my future many years in advance. I also enjoy working as I mentioned above. A part of Scouts is community service. Many scouts I know dislike this part the most, but I find it the most enjoyable. I love to help people and it makes me smile to see someone happy. I average about 150-200 hours per year of community service hours.
+
+My Aspirations
+Texty text
